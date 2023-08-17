@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+</style>
 * { margin: 0; padding: 0;}
 
 html, body { min-height: 100%; overflow-x: hidden;}
@@ -12,7 +12,7 @@ a:hover { color: #b0bec5; text-decoration: none; }
 
 header, main, footer { width: 80vw; margin: 0; padding: 4vh 10vw; }
 
-main p{font-weight: 200; font-size: calc(2rem + 2vw); line-height: 1.2; color:rgba(255,255,255,.7);}
+main p{font-weight: 300; font-size: calc(2rem + 2vw); line-height: 1.2; color:rgba(255,255,255,.7);}
 
 main dl {
   display:block;
