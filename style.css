@@ -1,11 +1,10 @@
-<style>
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
-</style>
 * { margin: 0; padding: 0;}
 
 html, body { min-height: 100%; overflow-x: hidden;}
 
-body {font-family: Roboto, sans-serif; font-weight:400; color: #eceff1; background: linear-gradient(#222233, #111122); }
+body {font-family:Roboto, sans-serif; font-weight:400; color: #eceff1; background: linear-gradient(#222233, #111122); }
 
 a { color: #78909c; text-decoration: none; }
 
@@ -23,7 +22,7 @@ main dl {
 }
 
 main dt {
-    font-weight: 500;
+    font-weight: 400;
     display: inline-block;
     float:left;
     width:calc(30% - 2rem);
